@@ -1,0 +1,22 @@
+{
+  "name": "RandomGen",
+  "version": "0.1.0",
+  "summary": "A short description of RandomGen.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/giovane_barreira@hotmail.com/RandomGen",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "giovane_barreira@hotmail.com": "giovane_barreira@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/giovane_barreira@hotmail.com/RandomGen.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RandomGen/Classes/**/*"
+}

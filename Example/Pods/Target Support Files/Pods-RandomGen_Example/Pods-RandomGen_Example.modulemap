@@ -1,0 +1,6 @@
+framework module Pods_RandomGen_Example {
+  umbrella header "Pods-RandomGen_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

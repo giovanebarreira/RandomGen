@@ -1,0 +1,6 @@
+framework module RandomGen {
+  umbrella header "RandomGen-umbrella.h"
+
+  export *
+  module * { export * }
+}
